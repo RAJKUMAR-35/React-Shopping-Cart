@@ -21,7 +21,7 @@ A responsive shopping cart application built with React, inspired by the [Start 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-shopping-cart.git
+   git clone https://github.com/RAJKUMAR-35/React-Shopping-Cart
 
 2. **Navigate to the project directory**:
    ```bash
