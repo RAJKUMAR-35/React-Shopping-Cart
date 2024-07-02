@@ -25,7 +25,7 @@ A responsive shopping cart application built with React, inspired by the [Start 
 
 2. **Navigate to the project directory**:
    ```bash
-   cd react-shopping-cart
+   cd React-Shopping-Cart
 
 3. **Install dependencies**:
    ```bash
