@@ -50,7 +50,9 @@ This project demonstrates basic shopping cart functionality using React, providi
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at your rajkumaranbu192@gmail.com
+For any inquiries or feedback, please contact:
+- Email: rajkumaranbu192@gmail.com
+- LinkedIn: [Rajkumar A](https://www.linkedin.com/in/rajkumar-cse/)
 
 
 
