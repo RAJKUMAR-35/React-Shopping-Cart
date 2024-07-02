@@ -42,11 +42,11 @@ A responsive shopping cart application built with React, inspired by the [Start 
 - **Cart Management**: Implementing state management for adding and removing items from the cart.
 - **Styling**: Applying CSS and Bootstrap for layout and design consistency.
 
----
-
 ## Conclusion
 
 This project demonstrates basic shopping cart functionality using React, providing a foundation for further enhancements and integration with backend services for a full-fledged e-commerce application.
+
+---
 
 ## Contact
 
